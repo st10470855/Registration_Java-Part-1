@@ -20,7 +20,7 @@ The system demonstrates Object-Oriented Programming (OOP) concepts such as class
 ##  Technologies Used
 - Java
 - NetBeans IDE
-- Git & GitHub
+
 
 ---
 
@@ -30,4 +30,4 @@ The system demonstrates Object-Oriented Programming (OOP) concepts such as class
 2. Build the project
 3. Run the `Registration` class
 
-OR using terminal:
+
