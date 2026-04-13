@@ -5,7 +5,6 @@ This project is a Java console application that allows users to register and log
 
 The system demonstrates Object-Oriented Programming (OOP) concepts such as classes, objects, encapsulation, and input validation.
 
----
 
 ##  Features
 - User Registration
@@ -15,14 +14,12 @@ The system demonstrates Object-Oriented Programming (OOP) concepts such as class
 - User Login system
 - Login status messages
 
----
 
 ##  Technologies Used
 - Java
 - NetBeans IDE
 
 
----
 
 ##  How to Run the Project
 
